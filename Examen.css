@@ -1,0 +1,52 @@
+.center {
+    width: 50%;
+    padding-left: 45%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 35%;
+    overflow: hidden;
+    background-color: #495f1a;
+}
+
+li {
+    margin-left: 15px;
+    float: left;
+    font-family: Impact,Charcoal,sans-serif;
+    font-size: 20px;
+}
+
+li a {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+.Buy {
+    color: #495f1a;
+    background-color: #b2923b;
+    border-radius: 25px;
+}
+.Cuerpo{
+    background-color: #d1d697;
+    text-align: center;
+}
+ul .Myfooter{
+    text-align: center;
+    
+    
+}
+.text-white{
+     font-family: Impact,
+     Charcoal,
+     sans-serif;
+     font-size: 40px;
+    color: white;
+}
+.foot{
+    padding-left: 25px;
+}
